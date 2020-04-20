@@ -2,7 +2,7 @@
 
 jQuery(function(_0x4c26x1) {
 	'use strict';
-	_0x4c26x1('form#wrapped')['attr']('action', 'review.php');
+	_0x4c26x1('form#wrapped')['attr']('action', 'thankyou.html');
 	_0x4c26x1('#wizard_container')['wizard']({
 		stepsWrapper: '#wrapped',
 		submit: '.submit',
